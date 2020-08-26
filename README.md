@@ -27,3 +27,8 @@ by the Ministry of Commerce and Industry, Govt. of India for
 essential agricultural commodities. The evaluation based on the
 proposed work shows decent improvement than some standard
 DL model for various entities when subject to limited records.
+
+**Supporting images**
+![LSTM versus Fuzzy](https://github.com/Duttabhi/Predictions-for-small-dataset/blob/master/comparison-lstm-fuzzy.jpg = 250x250)
+![Results over oil prices dataset](https://github.com/Duttabhi/Predictions-for-small-dataset/blob/master/fuzzy-oil-price.PNG = 250x250)
+![Work Flow](https://github.com/Duttabhi/Predictions-for-small-dataset/blob/master/work%20flow.png = 250x250)
