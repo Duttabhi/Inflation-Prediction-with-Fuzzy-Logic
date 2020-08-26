@@ -36,8 +36,8 @@ DL model for various entities when subject to limited records.
 
                                                 Results over oil prices dataset.
                                                 
-<img src="https://github.com/Duttabhi/Predictions-for-small-dataset/blob/master/fuzzy-oil-price.PNG" width="500">
+<img src="https://github.com/Duttabhi/Predictions-for-small-dataset/blob/master/fuzzy-oil-price.PNG" width="700">
 
                                                       Work Flow of the system.
 
-<img src="https://github.com/Duttabhi/Predictions-for-small-dataset/blob/master/work%20flow.png width="500")
+<img src="https://github.com/Duttabhi/Predictions-for-small-dataset/blob/master/work%20flow.png width="700">
