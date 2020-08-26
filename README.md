@@ -30,7 +30,7 @@ DL model for various entities when subject to limited records.
 
 **Supporting images**
 
-<img src="https://github.com/Duttabhi/Predictions-for-small-dataset/blob/master/comparison-lstm-fuzzy.jpg" width="350">
+<img src="https://github.com/Duttabhi/Predictions-for-small-dataset/blob/master/comparison-lstm-fuzzy.jpg" width="550" align="center">
 
                                               Comparison of LSTM and Fuzzy Models.
 
