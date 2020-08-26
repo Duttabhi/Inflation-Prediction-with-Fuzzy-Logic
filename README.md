@@ -1,4 +1,4 @@
-# Predictions-for-small-dataset
+# Inflation Prediction of Agricultural Products Using Fuzzy Inference System.
 **Dataset: Wholesale price for agricultural commodities ([WPI](https://eaindustry.nic.in/)).**
 
 *Time series predictions for small data set.*
@@ -34,14 +34,14 @@ DL model for various entities when subject to limited records.
 
 **Supporting images**
 
-                                              Comparison of LSTM and Fuzzy Models.
+                                              Comparison of LSTM and Fuzzy Models for Onion data set.
                                               
 <img src="https://github.com/Duttabhi/Predictions-for-small-dataset/blob/master/comparison-lstm-fuzzy.jpg" width="700">
 
-                                                Results over oil prices dataset.
+                                                       Results over Onion prices dataset.
                                                 
 <img src="https://github.com/Duttabhi/Predictions-for-small-dataset/blob/master/fuzzy-oil-price.PNG" width="700">
 
-                                                      Work Flow of the system.
+                                         Work Flow of the system(with working prototype of Android Application).
 
 <img src="https://github.com/Duttabhi/Predictions-for-small-dataset/blob/master/work%20flow.png" width="700">
