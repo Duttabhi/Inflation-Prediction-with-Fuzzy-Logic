@@ -1,4 +1,4 @@
-# Inflation Prediction of Agricultural Products Using Fuzzy Inference System.
+# Hybrid combination of Fuzzy Logic and LSTM.
 
 Inflation Prediction of Agricultural Products Using Fuzzy Inference System.
 
