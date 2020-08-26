@@ -40,4 +40,4 @@ DL model for various entities when subject to limited records.
 
                                                       Work Flow of the system.
 
-<img src="https://github.com/Duttabhi/Predictions-for-small-dataset/blob/master/work%20flow.png width="700">
+<img src="https://github.com/Duttabhi/Predictions-for-small-dataset/blob/master/work%20flow.png" width="700">
