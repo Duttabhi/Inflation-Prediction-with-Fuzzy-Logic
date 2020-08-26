@@ -1,9 +1,9 @@
 # Inflation Prediction of Agricultural Products Using Fuzzy Inference System.
 **Dataset: Wholesale price for agricultural commodities ([WPI](https://eaindustry.nic.in/)).**
 
-*Time series predictions for small data set.*
+*Objective: Devise time series prediction techinques which would work for small data set.*
 
-*Research Paper publishe at [11ICCCNT](https://11icccnt.com/) is included in the repository.*
+*Research Paper published at [11ICCCNT](https://11icccnt.com/) is included in the repository.*
 
 *An Android Application named **PREDICTR** is also under development.*
 
@@ -34,14 +34,17 @@ DL model for various entities when subject to limited records.
 
 **Supporting images**
 
-                                              Comparison of LSTM and Fuzzy Models for Onion data set.
+                                            Comparison of LSTM and Fuzzy Models for Onion data set.
                                               
 <img src="https://github.com/Duttabhi/Predictions-for-small-dataset/blob/master/comparison-lstm-fuzzy.jpg" width="700">
 
-                                                       Results over Onion prices dataset.
+                                                Results over Onion prices dataset.
                                                 
 <img src="https://github.com/Duttabhi/Predictions-for-small-dataset/blob/master/fuzzy-oil-price.PNG" width="700">
 
-                                         Work Flow of the system(with working prototype of Android Application).
+                                Work Flow of the system(with working prototype of Android Application).
 
 <img src="https://github.com/Duttabhi/Predictions-for-small-dataset/blob/master/work%20flow.png" width="700">
+
+                   Android Application Sample Image(Generating prediction graph for Onion Data set).
+<img src="https://github.com/Duttabhi/Inflation-Prediction-with-Fuzzy-Logic/blob/master/potrait2.jpeg" width="500">
