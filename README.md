@@ -3,6 +3,10 @@
 
 *Time series predictions for small data set.*
 
+*Research Paper publishe at [11ICCCNT](https://11icccnt.com/) is included in the repository.*
+
+*An Android Application named **PREDICTR** is also under development.*
+
 **Abstract**
 Predictions based on Sequential Data such as timeseries
 data of agricultural product prices play a crucial role in
