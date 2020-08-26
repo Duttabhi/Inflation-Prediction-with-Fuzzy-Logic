@@ -40,7 +40,7 @@ DL model for various entities when subject to limited records.
 
                                                 Results over Onion prices dataset.
                                                 
-<img src="https://github.com/Duttabhi/Predictions-for-small-dataset/blob/master/fuzzy-oil-price.PNG" width="700">
+<img src="https://github.com/Duttabhi/Inflation-Prediction-with-Fuzzy-Logic/blob/master/OnionPredictions.png" width="700">
 
                                 Work Flow of the system(with working prototype of Android Application).
 
