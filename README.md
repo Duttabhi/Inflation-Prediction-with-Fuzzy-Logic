@@ -30,10 +30,14 @@ DL model for various entities when subject to limited records.
 
 **Supporting images**
 
-<img src="https://github.com/Duttabhi/Predictions-for-small-dataset/blob/master/comparison-lstm-fuzzy.jpg" width="550" align="center">
-
                                               Comparison of LSTM and Fuzzy Models.
+                                              
+<img src="https://github.com/Duttabhi/Predictions-for-small-dataset/blob/master/comparison-lstm-fuzzy.jpg" width="700">
 
-![Results over oil prices dataset](https://github.com/Duttabhi/Predictions-for-small-dataset/blob/master/fuzzy-oil-price.PNG = 250x250)
+                                                Results over oil prices dataset.
+                                                
+<img src="https://github.com/Duttabhi/Predictions-for-small-dataset/blob/master/fuzzy-oil-price.PNG" width="500">
 
-![Work Flow](https://github.com/Duttabhi/Predictions-for-small-dataset/blob/master/work%20flow.png = 250x250)
+                                                      Work Flow of the system.
+
+<img src="https://github.com/Duttabhi/Predictions-for-small-dataset/blob/master/work%20flow.png width="500")
