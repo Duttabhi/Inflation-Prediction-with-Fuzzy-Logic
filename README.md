@@ -1,7 +1,7 @@
 # Inflation Prediction of Agricultural Products Using Fuzzy Inference System.
 **Dataset: Wholesale price for agricultural commodities ([WPI](https://eaindustry.nic.in/)).**
 
-*Objective: Devise time series prediction techinques which would work for small data set.*
+***Objective**: Devise time series prediction techinques which would work for small data set.*
 
 *Research Paper published at [11ICCCNT](https://11icccnt.com/) is included in the repository.*
 
