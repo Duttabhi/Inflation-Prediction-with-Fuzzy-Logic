@@ -29,6 +29,11 @@ proposed work shows decent improvement than some standard
 DL model for various entities when subject to limited records.
 
 **Supporting images**
+
 ![LSTM versus Fuzzy](https://github.com/Duttabhi/Predictions-for-small-dataset/blob/master/comparison-lstm-fuzzy.jpg | width=100)
+
+<img src="https://github.com/Duttabhi/Predictions-for-small-dataset/blob/master/comparison-lstm-fuzzy.jpg" width="48">
+
 ![Results over oil prices dataset](https://github.com/Duttabhi/Predictions-for-small-dataset/blob/master/fuzzy-oil-price.PNG = 250x250)
+
 ![Work Flow](https://github.com/Duttabhi/Predictions-for-small-dataset/blob/master/work%20flow.png = 250x250)
